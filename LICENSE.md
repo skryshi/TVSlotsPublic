@@ -1,3 +1,10 @@
+License for art, sounds and music:
+
+All rights reserved by the respective copyright holders.
+Art, sounds and music are for your personal use only.
+
+=====================================================
+
 License for code and documentation:
 																	
 The MIT License (MIT)
@@ -21,10 +28,3 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-=====================================================
-
-License for art and sound:
-
-Copyright (c) 2013 Elizaveta Oganissian
-
-All rights reserved.
